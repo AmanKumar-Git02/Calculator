@@ -1,0 +1,17 @@
+body{
+    padding-left: 20px;
+}
+#table{
+    height: 400px;
+    width: 400px;
+    font-size: 50px;
+    text-align: center;
+    background-color: rgb(41, 41, 41);
+    color: white;
+}
+#display{
+    height: 70px;
+    width: 400px;
+    background-color: rgb(147, 147, 147);
+    color: black;
+}
